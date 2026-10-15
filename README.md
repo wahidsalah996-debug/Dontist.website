@@ -1,11 +1,27 @@
-# Legacy Dental Website Repository
+# DentoCare — Dental Website Template
 
-This repository is an empty legacy placeholder. The maintained dental clinic website concept is available here:
+A responsive dental-practice website layout focused on service discovery, patient-friendly information, and a clear path for discussing customization. The repository includes a standalone HTML page that can be adapted to a clinic's verified identity and operating details.
 
-- **Live demo:** https://wahidsalah996-debug.github.io/portfolio/dental-clinic.html
-- **Source repository:** https://github.com/wahidsalah996-debug/dental-clinic
-- **Main portfolio:** https://wahidsalah996-debug.github.io/portfolio/
+## Project files
 
-This repository is retained as a pointer to the current project; it does not contain an application implementation.
+- `index.html` — self-contained website layout (HTML, CSS, and JavaScript)
+- `README.md` — project overview and customization notes
 
-For website project inquiries: [WhatsApp](https://wa.me/213666780427) · [Email](mailto:wahidsalah996@gmail.com)
+## Run locally
+
+Open `index.html` in a modern browser.
+
+## Client customization
+
+Replace the sample brand with the clinic's approved name, contact channels, address, opening hours, and service information. Configure any appointment workflow, contact form, analytics, privacy notices, and hosting before launch. Clinical content should be approved by qualified staff, and all claims should be verified.
+
+This repository supplies the front-end website layer. It does not include a patient-record database or a server-side appointment system.
+
+## Contact
+
+For website licensing or customization inquiries: [wahidsalah996@gmail.com](mailto:wahidsalah996@gmail.com)
+
+## Related work
+
+- [Main portfolio](https://wahidsalah996-debug.github.io/portfolio/)
+- [Dental clinic website template](https://github.com/wahidsalah996-debug/dental-clinic)
