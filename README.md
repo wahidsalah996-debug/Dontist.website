@@ -13,7 +13,7 @@ Open `index.html` in a modern browser.
 
 ## Client customization
 
-Replace the sample brand with the clinic's approved name, contact channels, address, opening hours, and service information. Configure any appointment workflow, contact form, analytics, privacy notices, and hosting before launch. Clinical content should be approved by qualified staff, and all claims should be verified.
+Configure the clinic's approved identity, contact channels, address, opening hours, and verified service information. Configure any appointment workflow, contact form, analytics, privacy notices, and hosting before launch. Clinical content should be approved by qualified staff, and all claims should be verified.
 
 This repository supplies the front-end website layer. It does not include a patient-record database or a server-side appointment system.
 
